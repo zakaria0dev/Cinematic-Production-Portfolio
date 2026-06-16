@@ -1,97 +1,113 @@
-<<<<<<< HEAD
-# Cinematic-Production-Portfolio
-=======
-# 🎬 Nine Films — Cinematic Production Portfolio
+<div align="center">
 
-> *"Quality over quantity."*  
-> Virtual cinematography · FiveM Production · Post-Production
+# 🎬 Nine Films
+### Cinematic Production Portfolio
 
-🌐 **[nine-films.vercel.app](https://nine-films.vercel.app/)**
+*"Quality over quantity."*
+
+Virtual Cinematography · FiveM Production · Post-Production
+
+**[Website](https://nine-films.vercel.app/)** · **[YouTube](https://www.youtube.com/@NineEditzs)** · **[Discord](https://discord.gg/Ys6YcEZTN)** · **[License](#license)**
+
+</div>
 
 ---
 
-## 🎥 Live Preview
+## Overview
+
+**Nine Films** is a FiveM-focused cinematic production studio. This repository holds the source code for the studio's official portfolio site — a multi-page showcase of the brand, past productions, and the services on offer.
+
+🌐 **Live site:** [nine-films.vercel.app](https://nine-films.vercel.app/)
+
+## Table of Contents
+
+- [Preview](#preview)
+- [Pages](#pages)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Services](#services)
+- [Getting Started](#getting-started)
+- [About](#about)
+- [Links](#links)
+- [License](#license)
+
+## Preview
 
 <video src="browsing.mp4" controls width="100%"></video>
 
-> 💡 If the video doesn't play above, [click here to download & watch it](browsing.mp4)
+> Video not loading? [Download and watch it directly](browsing.mp4).
 
----
-
-## 📌 What Is This?
-
-This is the official portfolio for **Nine Films** — a FiveM-focused cinematic production studio. This showcase presents the brand, the work, and the services offered by Nine Films.
-
----
-
-## 🗂️ Pages
+## Pages
 
 | Page | File | Description |
 |---|---|---|
-| Home | `index.html` | Hero, orbiting tool icons, about section & stats |
+| Home | `index.html` | Hero section, orbiting tool icons, about section, and stats |
 | Showcase | `showcase.html` | Portfolio of past productions |
-| Services | `services.html` | All offered services with pricing CTA |
-| Contact | `contact.html` | Discord profile card & contact hub |
+| Services | `services.html` | Full list of services with pricing CTA |
+| Contact | `contact.html` | Discord profile card and contact hub |
 
----
+## Features
 
-## ✨ Key Features
+- **Cinematic loader** on every page, on brand with the studio identity
+- **Custom cursor** with a smooth trail and hover states
+- **Scroll-reveal animations** for elements as they enter the viewport
+- **Orbiting neon rings** of Adobe / Rockstar tool icons around the wordmark
+- **Infinite marquee strip** auto-scrolling through service tags
+- **Animated Discord card** with a live-style profile preview
+- **Consistent multi-page navigation** across the whole site
+- **Fully responsive** on desktop and mobile
 
-- **Cinematic Loader** — Branded loading screen on every page
-- **Custom Cursor** — Smooth cursor trail with hover states
-- **Scroll Reveal Animations** — Elements elegantly animate in on scroll
-- **Orbiting Neon Rings** — Adobe / Rockstar tool icons orbit the NINE FILMS wordmark
-- **Infinite Marquee Strip** — Auto-scrolling service tags
-- **Animated Discord Card** — Live-style Discord profile in the contact section
-- **Multi-page Navigation** — Consistent nav across all pages
-- **Fully Responsive** — Desktop and mobile ready
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
 | Structure | HTML5 |
-| Styling | Vanilla CSS3 (custom properties, keyframes, grid, flexbox) |
-| Logic | Vanilla JavaScript (no libraries) |
+| Styling | Vanilla CSS3 — custom properties, keyframes, grid, flexbox |
+| Logic | Vanilla JavaScript — no frameworks or libraries |
 | Fonts | Google Fonts — Syne, DM Sans, DM Mono, Orbitron, Pirata One |
 
----
-
-## 🎨 Services Showcased
+## Services
 
 | # | Service |
 |---|---|
-| 1 | 🎥 Cinematic Videos |
-| 2 | 🖼️ Thumbnail Designs |
-| 3 | 🏙️ MLO Showcases |
-| 4 | `</>` Script Presentations |
-| 5 | 📣 Promotional Content |
-| 6 | 🤝 Custom Projects |
+| 1 | Cinematic videos |
+| 2 | Thumbnail designs |
+| 3 | MLO showcases |
+| 4 | Script presentations |
+| 5 | Promotional content |
+| 6 | Custom projects |
 
----
+## Getting Started
 
+This is a static site — no build step, no dependencies.
 
-## 🔗 Links
+```bash
+git clone <repo-url>
+cd Cinematic-Production-Portfolio
+```
+
+Then either open `index.html` directly in a browser, or serve it locally:
+
+```bash
+npx serve .
+```
+
+## About
+
+Nine Films was established in **MMXXVI** (2026). The studio specializes in cinematic-grade FiveM cinematography, treating every project as a visual exhibit — capturing the atmosphere of virtual environments with precision, intentionality, and craft.
+
+## Links
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [nine-films.vercel.app](https://nine-films.vercel.app/) |
-| 🎬 YouTube | [@NineEditzs](https://www.youtube.com/@NineEditzs) |
-| 💬 Discord | [discord.gg/Ys6YcEZTN](https://discord.gg/Ys6YcEZTN) |
+| Portfolio | [nine-films.vercel.app](https://nine-films.vercel.app/) |
+| YouTube | [@NineEditzs](https://www.youtube.com/@NineEditzs) |
+| Discord | [discord.gg/Ys6YcEZTN](https://discord.gg/Ys6YcEZTN) |
+
+## License
+
+All branding, assets, and creative work belong to **Nine Films Production**. Not licensed for reuse without explicit permission.
 
 ---
 
-## 📅 About
-
-**Nine Films** was established in **MMXXVI**.  
-Specializing in high-velocity FiveM cinematography, every project is treated as a cinematic exhibit — capturing the raw atmosphere of virtual environments with precision, intentionality, and craft.
-
----
-
-## 📄 License
-
-All branding, assets, and creative work belong to **Nine Films Production**.  
-Not licensed for reuse without explicit permission.
->>>>>>> 656c3c5 (Initial commit)
+<p align="center"><sub>© Nine Films — Est. MMXXVI</sub></p>
