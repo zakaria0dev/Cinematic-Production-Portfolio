@@ -15,7 +15,7 @@ Virtual Cinematography · FiveM Production · Post-Production
 
 ## Overview
 
-**Nine Films** is a FiveM-focused cinematic production studio. This repository holds the source code for the studio's official portfolio site — a multi-page showcase of the brand, past productions, and the services on offer.
+**Nine Films** is a FiveM-focused cinematic production studio. This repository is a preview showcase for the studio's official portfolio site — a multi-page tour of the brand, past productions, and the services on offer, used as a live template to catch new clients' attention.
 
 🌐 **Live site:** [nine-films.vercel.app](https://nine-films.vercel.app/)
 
@@ -26,7 +26,6 @@ Virtual Cinematography · FiveM Production · Post-Production
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Services](#services)
-- [Getting Started](#getting-started)
 - [About](#about)
 - [Links](#links)
 - [License](#license)
@@ -76,21 +75,6 @@ Virtual Cinematography · FiveM Production · Post-Production
 | 4 | Script presentations |
 | 5 | Promotional content |
 | 6 | Custom projects |
-
-## Getting Started
-
-This is a static site — no build step, no dependencies.
-
-```bash
-git clone <repo-url>
-cd Cinematic-Production-Portfolio
-```
-
-Then either open `index.html` directly in a browser, or serve it locally:
-
-```bash
-npx serve .
-```
 
 ## About
 
