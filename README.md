@@ -87,6 +87,7 @@ Nine Films was established in **MMXXVI** (2026). The studio specializes in cinem
 | Portfolio | [nine-films.vercel.app](https://nine-films.vercel.app/) |
 | YouTube | [@NineEditzs](https://www.youtube.com/@NineEditzs) |
 | Discord | [discord.gg/Ys6YcEZTN](https://discord.gg/Ys6YcEZTN) |
+| Developer | [@zakaria0dev](https://github.com/zakaria0dev) |
 
 ## License
 
@@ -94,4 +95,4 @@ All branding, assets, and creative work belong to **Nine Films Production**. Not
 
 ---
 
-<p align="center"><sub>© Nine Films — Est. MMXXVI</sub></p>
+<p align="center"><sub>© Nine Films — Est. MMXXVI · Coded by <a href="https://github.com/zakaria0dev">@zakaria0dev</a></sub></p>
